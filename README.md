@@ -1,5 +1,21 @@
-# MyPortfolio
-Stacy RH Davis
+# Retail Website
 
-This Portfolio contains my work as a Management Information Systems student at Oklahoma State University. 
-Projects in this portfolio are 100% my work, but some may be similar in style and feel to other individuals as they were completed as part of class assignments.
+A simple retail site design.
+
+## Description
+
+Created for a school project, it contains a Home page, About page, Item Description page, and Checkout page.
+
+### Built with
+
+* JavaScript, ASP.NET, SQL, Bootstrap, JQuery, C#, XHTML, CSS, ASPX, 
+
+## Authors
+
+Stacy RH Davis
+LinkedIn: https://www.linkedin.com/in/stacyrhdavis/
+
+## Acknowledgments
+
+Kim Strom
+Department of Management Science & Information Systems Adjunct, Spears School of Business
