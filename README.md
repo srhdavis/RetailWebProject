@@ -8,12 +8,20 @@ Created for a school project, it contains a Home page, About page, Item Descript
 
 ### Built with
 
-* JavaScript, ASP.NET, SQL, Bootstrap, JQuery, C#, XHTML, CSS, ASPX, 
+* JavaScript
+* ASP.NET
+* SQL
+* Bootstrap
+* JQuery
+* C#
+* XHTML
+* CSS
+* ASPX 
 
 ## Authors
 
-Stacy RH Davis
-LinkedIn: https://www.linkedin.com/in/stacyrhdavis/
+Stacy RH Davis  
+https://www.linkedin.com/in/stacyrhdavis/
 
 ## Acknowledgments
 
