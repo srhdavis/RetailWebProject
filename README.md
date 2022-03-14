@@ -25,4 +25,4 @@ https://www.linkedin.com/in/stacyrhdavis/
 
 ## Acknowledgments
 
-Kim Strom | Department of Management Science & Information Systems Adjunct | Spears School of Business
+Kim Strom | Department of Management Science & Information Systems Adjunct | Oklahoma State University Spears School of Business
